@@ -1,0 +1,6 @@
+public class Demo{
+
+  public stavic void main(String[] args){
+    System.out.println("Hello");
+  }
+}
